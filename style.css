@@ -1,0 +1,11 @@
+h1{
+    color: purple;
+}
+
+h2 {
+    border: 10px solid green;
+    border-radius: 15px;
+    font-size: 30px;
+    background: rgba(114, 42, 143, 0.63);
+    padding: 8px;
+}
