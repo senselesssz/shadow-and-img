@@ -9,3 +9,9 @@ h2 {
     background: rgba(114, 42, 143, 0.63);
     padding: 8px;
 }
+p.test{
+    font-size: 24px;
+    text-align: center;
+    font-style: oblique;
+    text-shadow: green 2px 4px 1px;
+}
